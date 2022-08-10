@@ -1,4 +1,4 @@
-# interactiveVolcanoWebMap
+# interactiveVolcanoWebMapWithPython
 Interactive Volcano Map with Python
 
 * Program that generates interactive web maps with Python.
